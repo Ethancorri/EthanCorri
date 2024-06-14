@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Ethan!
 
-<!--
-**Ethancorri/EthanCorri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent college graduate and I have spent most of my time working in the DevOps & Platform Engineering space. I really enjoy learning all the new different types of languages/tech stacks - it's practically something different every day!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:
+  - Building a personal website - This will showcase some of my hobbies, test some of my coding abilities, and showcase parts of my portfolio.
+- 🌱 I’m currently learning:
+  - GitHub Actions
+  - Containerization
+  - Az900 Fundamentals 
+- 🤔 I’m looking for help with:
+  - Anything interesting in DevOps or Platform Engineering
+  - Any tips on starting to learn AI?
+  - Any tips on cloud technologies?
+- 💬 Ask me about:
+  - My experience in DevOps
+  - My current projects
+  - My travels
+- 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/ethancorrigan/)
+- ⚡ Fun fact:
+  - I really enjoy traveling! Other than traveling around the USA, I have visited Japan, South Korea, and Mexico.
